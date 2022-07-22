@@ -1,5 +1,4 @@
 Texto de prueba para conectar conexion remota.
-x
 
 
 Modificado local
